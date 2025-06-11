@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cb0ixlxjg74l6"]
+
+[ext_resource type="PackedScene" uid="uid://bpbi7c8m2qed" path="res://assets/GridMapAssets.blend" id="1_e8mng"]
+
+[node name="Library" type="Node3D"]
+
+[node name="GridMapAssets" parent="." instance=ExtResource("1_e8mng")]
