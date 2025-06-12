@@ -12,6 +12,8 @@ sky_material = SubResource("ProceduralSkyMaterial_6614m")
 background_mode = 2
 sky = SubResource("Sky_bhu08")
 tonemap_mode = 2
+glow_enabled = true
+fog_enabled = true
 
 [node name="Lighting" type="Node3D"]
 
